@@ -2,6 +2,7 @@ import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
 
+# for csv and data sources, see citations.txt file
 COMPANY_PROVIDED_CSV = 'Sample Data Set.csv'
 DATABASE = 'Database.csv'
 PRODUCTION = 'production.csv' 
